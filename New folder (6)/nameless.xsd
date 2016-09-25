@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nttbp:baseballplayers xmlns:nttbp="http://www.example.org/baseballplayer2" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.example.org/baseballplayer2 baseballplayer2.xsd ">
+
+	<nttbp:player_name>Paul Smith</nttbp:player_name>
+	
+	<nttbp:current_age>23</nttbp:current_age>
+	
+	<nttbp:batting_average>.237</nttbp:batting_average>
+	
+	<nttbp:starting>true</nttbp:starting>
+	
+	<nttbp:date_born>1986-02-23</nttbp:date_born>
+	
+	<nttbp:next_game_time>14:30:00</nttbp:next_game_time>
+	
+	<nttbp:final_game>2012-09-20T14:30:00</nttbp:final_game>
+	
+	<nttbp:time_in_game>PT3H15M</nttbp:time_in_game>
+	
+	<nttbp:picture>http://www.pix.com/paulsmith.jpg</nttbp:picture>
+	
+	<nttbp:last_tweet>I hope I have a good game</nttbp:last_tweet>
+	
+	<nttbp:position>Infield</nttbp:position>
+	
+	<nttbp:id_code>34abc</nttbp:id_code>
+		
+	<nttbp:prev_bat_avg>.234 .212 .253</nttbp:prev_bat_avg>
+
+</nttbp:baseballplayers>
